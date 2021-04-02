@@ -47,8 +47,6 @@ Product.init(
       }
     }
 
-
-
   },
   {
     sequelize,
