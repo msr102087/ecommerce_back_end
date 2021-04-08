@@ -4,13 +4,16 @@
 
 This project was created to assist the user with updating and maintaining the back end of an e-commerce business site.  This application uses Express.js API and Sequelize to interact with the MySQL database.  
 
-## Installaion
+## Installation
 
 To install this project, the user will need to clone this repository from GitHub.  This application requires the user to install the following dependencies:  Node.js, Express.js, and Sequelize.  Connect to the database by running mysql -u root -p and enter user password.  **Please Note** you will need to input this information into a .env file for it to remain secure online.  User will then need to source the schema.sql and run npm run seed to seed the database.  Finally connect to the server using npm start server.
 
 ## Usage
 
 This application allows users to view, add, edit, and delete items from their designated categories, products, and tags.
+
+To View A Demonstration of How to run the MySQL Shell from the command line and start the server please click the following link:  https://youtu.be/VVlWzeBDTL4
+To View A Demonstration of How to View and Update Database using Insomnia please click the following link:  https://youtu.be/EYSEeCyKEZk
 
 
 ## License
