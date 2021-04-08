@@ -6,12 +6,12 @@ This project was created to assist the user with updating and maintaining the ba
 
 ## Table of Contents
 
-- [Installation] (#Installation)
-- [Usage] (#Usage)
-- [License] (#License)
-- [Contributors] (#Contributors)
-- [Tests] (#Tests)
-- [Questions] (#Questions)
+- [Installation] (##Installation)
+- [Usage] (##Usage)
+- [License] (##License)
+- [Contributors] (##Contributors)
+- [Tests] (##Tests)
+- [Questions] (##Questions)
 
 ## Installaion
 
