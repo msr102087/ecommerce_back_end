@@ -13,6 +13,7 @@ To install this project, the user will need to clone this repository from GitHub
 This application allows users to view, add, edit, and delete items from their designated categories, products, and tags.
 
 To View A Demonstration of How to run the MySQL Shell from the command line and start the server please click the following link:  https://youtu.be/VVlWzeBDTL4
+
 To View A Demonstration of How to View and Update Database using Insomnia please click the following link:  https://youtu.be/EYSEeCyKEZk
 
 
